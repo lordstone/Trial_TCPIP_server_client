@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459023112 source:/home/lordstone/Desktop/codeblocks/tcpip/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
